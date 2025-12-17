@@ -33,7 +33,7 @@ Follow these steps to launch your own BMW-branded greeting in seconds:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/bmw-greeting-webapp.git
+   (https://github.com/SaikoDiablo/project-java-spring.git)
    ```
 
 2. **Navigate into the Project**
